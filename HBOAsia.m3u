@@ -4,28 +4,28 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
-https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOHD/output/manifest.mpd
 #EXTINF:-1 tvg-id="605" tvg-chno="605" ch-number="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
-https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOHitsHD/output/manifest.mpd
 #EXTINF:-1 tvg-id="604" tvg-chno="604" ch-number="604" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
-https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOFamilyHD/output/manifest.mpd
 #EXTINF:-1 tvg-id="603" tvg-chno="603" ch-number="603" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
-https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOSignatureHD/output/manifest.mpd
 #EXTINF:-1 tvg-id="611" tvg-chno="611" ch-number="611" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
-https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CinemaxHD/output/manifest.mpd
